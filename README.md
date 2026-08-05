@@ -1,4 +1,4 @@
-## Suryansh Deoli
+[![Suryansh Deoli — founding engineer on two products. Python, FastAPI, TypeScript, Next.js, Gemini, Claude, RAG, embeddings, agent pipelines, PostgreSQL, pgvector, Redis, Docker, Jenkins, GCP, AWS, IAM, SSO, JWT, HMAC. Bengaluru, India, open to remote.](assets/banner.png)](https://suryanshd.github.io)
 
 Software engineer at InMobi. One of three building a new AI monetization platform, there since the
 backend's first commit, where I own the monetization surface.
