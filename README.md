@@ -1,10 +1,9 @@
-[![Suryansh Deoli — founding engineer on two products. Python, FastAPI, TypeScript, Next.js, Gemini, Claude, RAG, embeddings, agent pipelines, PostgreSQL, pgvector, Redis, Docker, Jenkins, GCP, AWS, IAM, SSO, JWT, HMAC. Bengaluru, India, open to remote.](assets/banner.png)](https://suryanshd.github.io)
+[![Suryansh Deoli — one of three engineers on a new AI monetization platform. Python, FastAPI, TypeScript, Next.js, Gemini, Claude, RAG, embeddings, agent pipelines, PostgreSQL, pgvector, Redis, Docker, Jenkins, GCP, AWS, IAM, SSO, JWT, HMAC. Bengaluru, India, open to remote.](assets/banner.png)](https://suryanshd.github.io)
 
-Software engineer at InMobi, and a founding engineer on two products there. One of three on a new AI
-monetization platform, since the backend's first commit, where I own the monetization surface. And an
-embeddable AI answer surface that I started building on top of it.
+Software engineer at InMobi. One of three engineers on a new AI monetization platform, since the
+backend's first commit, where I own the monetization surface.
 
-Before those I built an ad-compliance proxy that checks campaigns before their traffic reaches Google,
+Before that I built an ad-compliance proxy that checks campaigns before their traffic reaches Google,
 with an LLM in the approval loop. Most of what I do is applied AI with real constraints attached:
 someone else's policy, someone else's page, someone else's budget.
 
@@ -25,7 +24,7 @@ claim is worse than an empty one. Built with [Piyush Rane](https://github.com/Pi
 
 ### What I work with
 
-Python and FastAPI · TypeScript, Next.js, React · Gemini, Claude, Imagen · RAG, embeddings, evals
+Python and FastAPI · TypeScript, Next.js, React · Gemini, Claude, Imagen · RAG, embeddings, guardrails
 · PostgreSQL, AlloyDB, pgvector · Redis · Docker, Jenkins, Helm · GCP and AWS · IAM, SSO, JWT, HMAC
 
 ### Elsewhere
