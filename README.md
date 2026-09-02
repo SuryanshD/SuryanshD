@@ -1,4 +1,4 @@
-[![Suryansh Deoli — one of three engineers on a new AI monetization platform. Python, FastAPI, TypeScript, Next.js, Gemini, Claude, RAG, embeddings, agent pipelines, PostgreSQL, pgvector, Redis, Docker, Jenkins, GCP, AWS, IAM, SSO, JWT, HMAC. Bengaluru, India, open to remote.](assets/banner.png)](https://suryanshd.github.io)
+[![Suryansh Deoli — one of three engineers on a new AI monetization platform. Python, FastAPI, TypeScript, Next.js, Gemini, Claude, RAG, embeddings, agent pipelines, PostgreSQL, pgvector, Redis, Docker, Jenkins, GCP, AWS, IAM, SSO, JWT, HMAC. Bengaluru, India.](assets/banner.png)](https://suryanshd.github.io)
 
 Software engineer at InMobi. One of three engineers on a new AI monetization platform, since the
 backend's first commit, where I own the monetization surface.
